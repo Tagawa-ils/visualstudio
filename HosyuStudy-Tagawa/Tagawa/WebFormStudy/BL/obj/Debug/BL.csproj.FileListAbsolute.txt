@@ -1,0 +1,5 @@
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\BL\bin\Debug\BL.dll
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\BL\bin\Debug\BL.pdb
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\BL\obj\Debug\BL.dll
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\BL\obj\Debug\BL.pdb

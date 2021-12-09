@@ -1,0 +1,7 @@
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\obj\Debug\WebFormBL.csproj.CoreCompileInputs.cache
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\bin\Debug\WebFormBL.dll.config
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\bin\Debug\WebFormBL.dll
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\bin\Debug\WebFormBL.pdb
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\obj\Debug\WebFormBL.dll
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\obj\Debug\WebFormBL.pdb
+C:\Users\natuk\source\HosyuStudy-Tagawa\Tagawa\WebFormStudy\WebFormBL\obj\Debug\WebFormBL.csproj.AssemblyReference.cache
